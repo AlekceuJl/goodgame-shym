@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://goodgameshym.tilda.ws/sitemap.xml
