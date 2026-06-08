@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.goodgameshym.kz/sitemap.xml
+Sitemap: https://goodgameshym.kz/sitemap.xml
